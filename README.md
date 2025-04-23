@@ -1,4 +1,4 @@
-# Copilot Assistant - React App
+# Copilot Assistant - React Copilot
 
 ## Overview
 Copilot Assistant is a chat-based Salesforce Copilot built using React. It interacts with the user by providing responses to various commands, such as fetching weather data, telling jokes, and navigating Salesforce records. The app integrates with external APIs for dynamic responses.
